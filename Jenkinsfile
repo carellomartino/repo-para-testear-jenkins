@@ -8,5 +8,8 @@ pipeline {
                 sh '''
                 echo 'Repositorio descargado'
                 '''
+            }
+        }
+    }
                 
 }
